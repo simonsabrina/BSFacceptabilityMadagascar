@@ -1,2 +1,3 @@
-# BSFacceptabilityMadagascar
-Dataset: Community Acceptance of Black Soldier Fly (BSF) Larvae-Based Products in Rural South-East Madagascar
+# Community Acceptance of Black Soldier Fly (BSF) Larvae-Based Products in Rural South-East Madagascar
+
+This pioneering study provides novel and critical insights into the human acceptability of Black Soldier Fly (BSF) larvae as a food source in Madagascar. As the country moves toward formalizing its regulatory framework for insect-based foods, our research offers timely, evidence-based contributions to both science and policy. By assessing the sensory, cultural, and psychological acceptance of BSF-derived products, we highlight strong community receptiveness, particularly to processed forms, laying a solid foundation for integrating BSF into local diets.
